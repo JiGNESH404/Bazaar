@@ -58,7 +58,7 @@ $mail->msgHTML("<h2>Your temporary password for logging in:</h2>
 <br>$pass<hr>"); //$mail->msgHTML(file_get_contents('contents.html'), __DIR__); //Read an HTML message body from an external file, convert referenced images to embedded,
 $mail->AltBody = 'Password is '.$pass;
 if($mail->send()){
-	echo"<script>alert(\"Check Your email\")</script>";
+
             }
             else
             {
