@@ -15,3 +15,5 @@ abc@gmail.com
 
 jignesh@gmail.com
 Test@123
+
+![home page](https://github.com/JiGNESH404/Bazaar/blob/main/HomePage.png?raw=true)
